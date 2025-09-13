@@ -1,5 +1,10 @@
 # 🌐 Sites Collection Web
 
+
+**Aluno:** José Satiro de Lima  
+**Professor:** Thomaz Maia
+
+
 Repositório principal com a coleção de atividades desenvolvidas na disciplina **Desenvolvimento Web**.  
 Aqui você encontra todos os links para os projetos publicados no **GitHub Pages**.  
 
